@@ -1,11 +1,12 @@
 ---
+draft: true
 title: À propos
-menu:
-  main:
-    name: Qui suis-je?
-    weight: 4
-  footer:
-    weight: 1
+#menu:
+#  main:
+#    name: Qui suis-je?
+#    weight: 4
+#  footer:
+#    weight: 1
 subtitle: Cédric Dromzée
 comments: false
 ---

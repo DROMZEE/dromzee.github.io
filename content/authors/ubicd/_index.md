@@ -1,11 +1,11 @@
 ---
 authors:
 - ubicv
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: ✔ Développeur Data & IA ✔ DevOps ✔ Entrepreneur ✔ Manageur 
   matter.
 education:
   courses:
-  - course: ESS / MATER en ingénierie industrielle, mécanique et matériaux
+  - course: DESS / MATER en ingénierie industrielle, mécanique et matériaux
     institution: IFTS
     year: 2004
   - course: S Mastère Spécialisé en Entrepreneuriat
@@ -15,44 +15,67 @@ education:
     institution: LIUPPA
     year: 2011
 
-email: ""
+email: "cedric@dromzee.fr"
 interests:
 - Intelligence artificielle (IA)
 - Science des données
 - Développement
 - Entrepreneuriat
-name: Cédric Dromzée
+name: Cédric Dromzée  40 ans Capbreton
 organizations:
 - name: AEXIUM SAS
   url: "https://aexium.com/"
-role: Founder
+role: Dirigeant foundateur de la startup
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://twitter.com/dromzee
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-✔ Management ✔ Gestion de projet ✔ Direction de centre de profit ✔ Qualité ✔ Recrutement  ➤ Vous recherchez un profil polyvalent, disponible, capable de prendre en charge des projets nécessitant de la technicité et du leadership ?
+Je développe une WebApp avec des technologies :
+ 
+    ✔ MEAN stack : mongoDB, Express, Angular, NodeJS
+    ✔ DevOps : GitLab / Redmine, Kubernetes, Docker
+    ✔ Chatbot : Dialogflow
 
-Mon parcours d'entrepreneur m'a permis d'exercer de nombreux métiers qui m'ont apporté de nombreuses compétences transversales et une grande capacité d'adaptation
+J'intègre la formation [Développeur Data IA](https://simplon.co/ecoleia/) de *[Simplon](https://simplon.co/ecoleia/)* qui me permettra de développer mes compétences :
 
-Je répartis mon temps entre 
-➤ la direction et le développement du cabinet dentaire de ma conjointe ( 4 Chirurgiens Dentistes)  
-✔ Recrutement ✔ Évaluation des investissements ✔ Management ✔ Comptabilité
-➤ Le développement d'un nouveau projet logiciel (service en ligne B2B) qui me permets de développer de nouvelles compétences techniques :
-✔ développement full MEAN stack
-✔ automatisation de tâches grâce au DevOps (GitLab, Kubernetes ...) JAMstack
+    ✔ R, Python : numpy, pandas, matplotlib ... 
+    ✔ Bases de données : SQL, NoSQL
+    ✔ IA : machine learning, deep learning, Chatbot ...
 
+# Entrepreneur / Manageur
+
+Mes expériences de création d'entreprise et de développement de centre de profit m'ont permises d'acquérir de multiples compétences transversales telles que :
+
+    ✔ Management : définir les objectifs et les moyens, contrôler
+    ✔ Gestion de projet : organiser, planifier, évaluer
+    ✔ Direction de centre de profit : Business Plan, financement, stratégie
+    ✔ RH : sourcing, recrutement, évaluation, formation, motivation
+    ✔ Commercial : prospection, propositions, négociation, suivi
+
+> ➤ Vous recherchez un profil polyvalent, disponible, capable de prendre en charge des projets nécessitant de la technicité et du leadership ?
+
+>> ➤ Alors [contactez-moi !](#contact)
+
+
+# Mes qualités
+
+- [x] Réactivité
+- [x] Créativité
+- [x] Curiosité
+- [x] Adaptabilité
+- [x] Autonomie
