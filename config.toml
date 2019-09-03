@@ -16,7 +16,7 @@ baseurl = "/"
 copyright = "Tous droits réservés - 2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-16346273-1"
 
 ############################
 ## Advanced options below ##
