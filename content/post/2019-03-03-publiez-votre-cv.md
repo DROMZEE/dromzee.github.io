@@ -1,6 +1,8 @@
 ---
+draft: false
 title: Publiez votre CV
 subtitle: 
+author: "ubicd"
 date: 2019-03-03
 tags: ["cv", "jobboard", "emploi"]
 ---

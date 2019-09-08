@@ -1,7 +1,10 @@
 ---
+draft: true
 title: GitLab Pages
 subtitle: Publiez votre site
+author: "ubicd"
 date: 2019-07-26
+categories: ["R"]
 tags: ["GitLab"]
 ---
 
