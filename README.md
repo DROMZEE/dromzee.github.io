@@ -6,7 +6,7 @@ Dromzée Cédric GitHub page
 
 Analyse, visualisation, machine learning ...
 
-* [titanic]https://github.com/DROMZEE/titanic)
+* [titanic](https://github.com/DROMZEE/titanic)
 * [load_digits](https://github.com/DROMZEE/load_digits)
 * [social_network_ads](https://github.com/DROMZEE/social_network_ads)
 * [prostate](https://github.com/DROMZEE/prostate)
