@@ -1,7 +1,7 @@
 ---
 authors:
 - dromzee
-bio: ✔ Développeur Data & IA ✔ DevOps ✔ Entrepreneur 
+bio: ✔ Développeur Data & IA ✔ Entrepreneur 
   matter.
 education:
   courses:
