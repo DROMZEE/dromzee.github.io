@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cédric Dromzée @ubicd</title>
+    <link>/authors/ubicd/</link>
+      <atom:link href="/authors/ubicd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cédric Dromzée @ubicd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Tous droits réservés - 2019</copyright>
+    <image>
+      <url>/img/files/cedric-dromzee.jpg</url>
+      <title>Cédric Dromzée @ubicd</title>
+      <link>/authors/ubicd/</link>
+    </image>
+    
+  </channel>
+</rss>

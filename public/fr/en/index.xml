@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ens | Cédric Dromzée FR</title>
+    <link>/fr/en/</link>
+      <atom:link href="/fr/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Tous droits réservés - 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ens</title>
+      <link>/fr/en/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

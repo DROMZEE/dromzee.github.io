@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/gitlab/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-07-26-gitlab-pages/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/cms/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-07-25-hugo/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/devops/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-07-20-jamstack/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jamstack/</loc>
+    <lastmod>2019-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-07-03-wsl/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/wsl/</loc>
+    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/k8s/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-06-27-k8s-ovh/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ovh/</loc>
+    <lastmod>2019-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-06-05-docker/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/docker/</loc>
+    <lastmod>2019-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-06-01-outils/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/outils/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dsm/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nas/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-05-19-nas-synology-ds218&#43;/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/synology/</loc>
+    <lastmod>2019-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/cv/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emploi/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/jobboard/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-03-03-publiez-votre-cv/</loc>
+    <lastmod>2019-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-07-11-envionnement-de-developpement/</loc>
+    <lastmod>2019-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2019-01-15-autoformation/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/eni/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/formation/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/udemy/</loc>
+    <lastmod>2019-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/categories/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ubicd/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cv/contact/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/cv/formations/afgsu-2/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/amdec/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/angular/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/formations/assistant-dentaire/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/xp/2005-attache-direction-strategie-pmi/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/autocad/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/business-plan/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/cao/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/cfao/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/chatbot/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/cir/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/commercial/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/conception/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/stages/conception-mecanique/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/dentaire/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/etudes/master-dess-ingenierie-industrielle-materiaux/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/dessinateur/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/stages/dessinateur-mecanique/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/xp/2014-directeur-etablissement-sante-dentaire-exploitation/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/direteur/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/doctorat/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/entrepreneur/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/environnement/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/esn/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/exploitation/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/experiences/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/formations/meopa/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/gestion-de-projet/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/hygiene/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/industriel/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/informatique/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ingenierie/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/xp/ingenieur-commercial-manageur/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/stages/ingenieur-qualite-environnement-stagiaire/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/jei/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/liens/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/liens/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/management/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/maq/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/etudes/mastere-entrepreneuriat-esc/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mean/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/meopa/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mongodb/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mecanique/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/outillage/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/aex/2009-porteur-de-projet-entrepreneur/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/xp/2019-projet-mean-stack-chatbot-devops/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/production/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/projet/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/stages/gestion-de-projet/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/loisirs/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/xp/2010-entrepreneur-startup-pdg/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/qualite/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/etudes/doctorat-recherche-informatique/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/recherche/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/redmine/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/science/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/secourisme/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/securite/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/ssii/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/startup/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/sterilisation/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/strategie/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/semantique/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/veille/</loc>
+  </url>
+  
+  <url>
+    <loc>/cv/a-propos/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/etude-de-marche/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/etudes/</loc>
+  </url>
+  
+</urlset>

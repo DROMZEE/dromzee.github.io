@@ -1,0 +1,2294 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cédric Dromzée @ubicd</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cédric Dromzée @ubicd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Tous droits réservés - 2019</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/files/cedric-dromzee.jpg</url>
+      <title>Cédric Dromzée @ubicd</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example1/</guid>
+      <description>
+
+&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/example/example2/</guid>
+      <description>
+
+&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GitLab Pages</title>
+      <link>/post/2019-07-26-gitlab-pages/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-26-gitlab-pages/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;publier gratuitement un site statique sur gitlab&lt;/li&gt;
+&lt;li&gt;publier trés rapidement&lt;/li&gt;
+&lt;li&gt;déploiement automatique&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.gitlab.com/product/pages/&#34; target=&#34;_blank&#34;&gt;https://about.gitlab.com/product/pages/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.gitlab.com/ee/user/project/pages/introduction.html&#34; target=&#34;_blank&#34;&gt;https://docs.gitlab.com/ee/user/project/pages/introduction.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>/post/2019-07-25-hugo/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-25-hugo/</guid>
+      <description>
+
+&lt;p&gt;Je suis la mouvement du retour vers les sites Web statiques.
+Apprêt avoir utilisé les CMS DRUPAL, JOOMLA et Wordpress je tente Hugo.&lt;/p&gt;
+
+&lt;h3 id=&#34;besoins&#34;&gt;Besoins&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;léger&lt;/li&gt;
+&lt;li&gt;statique donc sans base de donnée&lt;/li&gt;
+&lt;li&gt;simple&lt;/li&gt;
+&lt;li&gt;hébergement gratuit&lt;/li&gt;
+&lt;li&gt;conforme aux normes du W3C&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;solution&#34;&gt;Solution&lt;/h3&gt;
+
+&lt;p&gt;Mon environnement GitLab rend l&amp;rsquo;utilisation de Hugo extrêment simplifié :
+*  édition en ligne
+*  déploiement automatique
+*&lt;/p&gt;
+
+&lt;p&gt;éditable en Markdown&lt;/p&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Hugo_(logiciel&#34; target=&#34;_blank&#34;&gt;https://fr.wikipedia.org/wiki/Hugo_(logiciel&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thèmes&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34;&gt;https://themes.gohugo.io/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JAMstack</title>
+      <link>/post/2019-07-20-jamstack/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-20-jamstack/</guid>
+      <description>
+
+&lt;p&gt;JAM = JavaScript, APIs &amp;amp; Markup&lt;/p&gt;
+
+&lt;p&gt;une expérience de développement
+*  plus simple,
+*  de meilleures performances,
+*  des coûts bien moins élevés
+*  une grande scalabilité.&lt;/p&gt;
+
+&lt;h3 id=&#34;comment&#34;&gt;Comment&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Générateurs de site statique tels que &lt;a href=&#34;https://dromzee.fr/post/2019-07-25-hugo/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; (mais il y en a d&amp;rsquo;autres : Gatsby, Next.js)&lt;/li&gt;
+&lt;li&gt;Déploiement automatisé avec GitLab Pages par exemple (voir Netlify, Zeit, Github Pages &amp;hellip;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://jamstack.wtf&#34; target=&#34;_blank&#34;&gt;https://jamstack.wtf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jamstatic.fr&#34; target=&#34;_blank&#34;&gt;https://jamstatic.fr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import pandas as pd
+data = pd.read_csv(&amp;quot;data.csv&amp;quot;)
+data.head()
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
+
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$\gamma_{n} = \frac{ 
+\left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T 
+\left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
+{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-tex&#34;&gt;$$f(k;p_0^*) = \begin{cases} p_0^* &amp;amp; \text{if }k=1, \\
+1-p_0^* &amp;amp; \text {if }k=0.\end{cases}$$
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
+1-p_0^* &amp; \text {if }k=0.\end{cases}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD;
+  A--&amp;gt;B;
+  A--&amp;gt;C;
+  B--&amp;gt;D;
+  C--&amp;gt;D;
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;graph TD;
+  A--&amp;gt;B;
+  A--&amp;gt;C;
+  B--&amp;gt;D;
+  C--&amp;gt;D;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice-&amp;gt;John: Hello John, how are you?
+  loop Healthcheck
+      John-&amp;gt;John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
+  John--&amp;gt;Alice: Great!
+  John-&amp;gt;Bob: How about you?
+  Bob--&amp;gt;John: Jolly good!
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice-&amp;gt;John: Hello John, how are you?
+  loop Healthcheck
+      John-&amp;gt;John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts &amp;lt;br/&amp;gt;prevail...
+  John--&amp;gt;Alice: Great!
+  John-&amp;gt;Bob: How about you?
+  Bob--&amp;gt;John: Jolly good!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+```
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34;&gt;gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;- [x] Write math example
+- [x] Write diagram example
+- [ ] Do something else
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for asides, also referred to as &lt;em&gt;notices&lt;/em&gt; or &lt;em&gt;hints&lt;/em&gt;. By prefixing a paragraph with &lt;code&gt;A&amp;gt;&lt;/code&gt;, it will render as an aside. You can enable this feature by adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter, or alternatively using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34;&gt;&lt;em&gt;Alert&lt;/em&gt; shortcode&lt;/a&gt;.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;A&amp;gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;aside&gt;
+&lt;p&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WSL</title>
+      <link>/post/2019-07-03-wsl/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-03-wsl/</guid>
+      <description>
+
+&lt;p&gt;WSL = Windows Subsystem for Linux&lt;/p&gt;
+
+&lt;h3 id=&#34;wsl-1-ou-wsl-2&#34;&gt;WSL 1 ou WSL 2&lt;/h3&gt;
+
+&lt;p&gt;Saisir sous PowerShell&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;wsl -l -v&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.microsoft.com/fr-fr/windows/wsl/install-win10&#34; target=&#34;_blank&#34;&gt;https://docs.microsoft.com/fr-fr/windows/wsl/install-win10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kubernetes OVH</title>
+      <link>/post/2019-06-27-k8s-ovh/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-06-27-k8s-ovh/</guid>
+      <description>
+
+&lt;p&gt;Kubernetes (appelé «K8s»)&lt;/p&gt;
+
+&lt;p&gt;automatiser le déploiement, la montée en charge et la mise en œuvre de conteneurs d&amp;rsquo;application sur des clusters de serveurs&lt;/p&gt;
+
+&lt;p&gt;J&amp;rsquo;utilise Kubernetes conjointement à GitLab pour gérer mes clusters&lt;/p&gt;
+
+&lt;h3 id=&#34;mon-cahier-des-charges&#34;&gt;Mon cahier des charges&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;orchestration de conteneurs&lt;/li&gt;
+&lt;li&gt;integration avec Gitlab&lt;/li&gt;
+&lt;li&gt;hebergement en France&lt;/li&gt;
+&lt;li&gt;un système open source&lt;/li&gt;
+&lt;li&gt;tarifs raisonnables&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A voir aussi
+*  OpenShift&lt;/p&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io/fr/&#34; target=&#34;_blank&#34;&gt;https://kubernetes.io/fr/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fr.wikipedia.org/wiki/Kubernetes&#34; target=&#34;_blank&#34;&gt;https://fr.wikipedia.org/wiki/Kubernetes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ovh.com/fr/public-cloud/kubernetes/&#34; target=&#34;_blank&#34;&gt;https://www.ovh.com/fr/public-cloud/kubernetes/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>/post/2019-06-05-docker/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-06-05-docker/</guid>
+      <description>&lt;p&gt;docker&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mes outils</title>
+      <link>/post/2019-06-01-outils/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-06-01-outils/</guid>
+      <description>
+
+&lt;h3 id=&#34;outils-de-dev&#34;&gt;Outils de dev&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Git / GitLab&lt;/li&gt;
+&lt;li&gt;Redmine&lt;/li&gt;
+&lt;li&gt;VS Code&lt;/li&gt;
+&lt;li&gt;WSL&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;outils-de-veille&#34;&gt;Outils de veille&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Feedly&lt;/li&gt;
+&lt;li&gt;Pocket&lt;/li&gt;
+&lt;li&gt;Google alert&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;cms&#34;&gt;CMS&lt;/h3&gt;
+
+&lt;p&gt;J&amp;rsquo;ai arrêté :
+* DRUPAL
+* WORDPRESS
+* JOOMLA&lt;/p&gt;
+
+&lt;p&gt;maintenant j&amp;rsquo;utilise
+* Hugo&lt;/p&gt;
+
+&lt;h3 id=&#34;les-communautés&#34;&gt;Les communautés&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;stackoverflow&lt;/li&gt;
+&lt;li&gt;OVH Community&lt;/li&gt;
+&lt;li&gt;Synology Community&lt;/li&gt;
+&lt;li&gt;Gitlab forum&lt;/li&gt;
+&lt;li&gt;Docker Forums&lt;/li&gt;
+&lt;li&gt;Github&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NAS Synology 218&#43;</title>
+      <link>/post/2019-05-19-nas-synology-ds218&#43;/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-05-19-nas-synology-ds218&#43;/</guid>
+      <description>
+
+&lt;h3 id=&#34;les-plus&#34;&gt;Les plus :&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le prix&lt;/li&gt;
+&lt;li&gt;facilité de mise en oeuvre&lt;/li&gt;
+&lt;li&gt;performance&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;les-moins&#34;&gt;Les moins :&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;les mises à jours des applications ne suivent pas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;tâches-à-réaliser&#34;&gt;Tâches à réaliser&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sécuriser le NAS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.numetopia.fr/comment-activer-et-configurer-le-firewall-du-synology/&#34; target=&#34;_blank&#34;&gt;https://www.numetopia.fr/comment-activer-et-configurer-le-firewall-du-synology/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.synology.com/fr-fr/knowledgebase/SRM/help/SRM/RouterApp/security_autoblock&#34; target=&#34;_blank&#34;&gt;https://www.synology.com/fr-fr/knowledgebase/SRM/help/SRM/RouterApp/security_autoblock&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publiez votre CV</title>
+      <link>/post/2019-03-03-publiez-votre-cv/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-03-03-publiez-votre-cv/</guid>
+      <description>
+
+&lt;p&gt;Voici une liste de site où plublier votre CV en ligne.&lt;/p&gt;
+
+&lt;h3 id=&#34;les-job-board&#34;&gt;Les Job board&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.monster.fr&#34; target=&#34;_blank&#34;&gt;MONSTER&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cadres.apec.fr&#34; target=&#34;_blank&#34;&gt;APEC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.pole-emploi.fr&#34; target=&#34;_blank&#34;&gt;Pôle Emploi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cadremploi.fr&#34; target=&#34;_blank&#34;&gt;Cadre emploi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.indeed.fr&#34; target=&#34;_blank&#34;&gt;Indeed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.regionsjob.com&#34; target=&#34;_blank&#34;&gt;REGIONSJOB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sudouestjob.com/&#34; target=&#34;_blank&#34;&gt;SUDOUESTJOB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Doyoubuzz&lt;/li&gt;
+&lt;li&gt;RemixJobs&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://emploicadres.leboncoin.fr&#34; target=&#34;_blank&#34;&gt;Le Bon coin - emploi cadres&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;pour-les-développeurs&#34;&gt;Pour les développeurs&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.developpez.com&#34; target=&#34;_blank&#34;&gt;https://www.developpez.com&lt;/a&gt; section EMPLOI&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lesjeudis.com&#34; target=&#34;_blank&#34;&gt;https://www.lesjeudis.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freelance-info.fr&#34; target=&#34;_blank&#34;&gt;https://www.freelance-info.fr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;les-réseaux-sociaux&#34;&gt;Les réseaux sociaux&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/&#34; target=&#34;_blank&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Viadéo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;régional&#34;&gt;régional&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;CV Europass&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;emplois.pays-basque-digital.fr&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.abg.asso.fr&#34; target=&#34;_blank&#34;&gt;https://www.abg.asso.fr&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://www.stepstone.fr/&#34; target=&#34;_blank&#34;&gt;https://www.stepstone.fr/&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;www.territorial.fr&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;les-cabinets-de-recrutement&#34;&gt;Les cabinets de recrutement&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://talentup.com&#34; target=&#34;_blank&#34;&gt;https://talentup.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Page Personnel&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;les-société-d-interim&#34;&gt;Les société d&amp;rsquo;interim&lt;/h3&gt;
+
+&lt;h3 id=&#34;les-outils&#34;&gt;Les outils&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;UbiCV - malheuresement ce projet est maintenant inactif !&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>/post/2019-07-11-envionnement-de-developpement/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-07-11-envionnement-de-developpement/</guid>
+      <description>&lt;p&gt;Je suis opposé à Facebook
+je dispose d&amp;rsquo;un compte pour :
+* verifier que personne ne parle de moi ou publie des photos personnelle
+* car j&amp;rsquo;ai déja été contraint d&amp;rsquo;avoir un compte pour accéder à des actualités et fichiers professionnel non disponible sur d&amp;rsquo;autres support&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/post/jupyter/</guid>
+      <description>
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
+Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;./academic_0_0.png&#34; alt=&#34;png&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;print(&amp;quot;Welcome to Academic!&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;install-python-and-jupyter&#34;&gt;Install Python and Jupyter&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34; target=&#34;_blank&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and Jupyter notebook.&lt;/p&gt;
+
+&lt;p&gt;Otherwise, for advanced users, install Jupyter notebook with &lt;code&gt;pip3 install jupyter&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;create-a-new-blog-post-as-usual-https-sourcethemes-com-academic-docs-managing-content-create-a-blog-post&#34;&gt;Create a new blog post &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-a-blog-post&#34; target=&#34;_blank&#34;&gt;as usual&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY_WEBSITE_FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;my-post&lt;/code&gt; with the file path to your Academic website folder and a name for your blog post (without spaces), respectively:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;
+hugo new  --kind post post/my-post
+cd &amp;lt;MY_WEBSITE_FOLDER&amp;gt;/content/post/my-post/
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+
+&lt;p&gt;Run the following command to start Jupyter within your new blog post folder. Then create a new Jupyter notebook (&lt;em&gt;New &amp;gt; Python Notebook&lt;/em&gt;) or upload a notebook.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter notebook
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert Untitled.ipynb --to markdown --NbConvertApp.output_files_dir=.
+
+# Copy the contents of Untitled.md and append it to index.md:
+cat Untitled.md | tee -a index.md
+
+# Remove the temporary file:
+rm Untitled.md
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+
+&lt;p&gt;Open &lt;code&gt;index.md&lt;/code&gt; in your text editor and edit the title etc. in the &lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34; target=&#34;_blank&#34;&gt;front matter&lt;/a&gt; according to your preference.&lt;/p&gt;
+
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34; target=&#34;_blank&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&amp;rsquo;s folder.&lt;/p&gt;
+
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>
+
+&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Code block:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+    print(&amp;quot;Eating...&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+
+&lt;p&gt;Block math:&lt;/p&gt;
+
+&lt;p&gt;$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
+   One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+   Three
+&lt;/span&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;quot;/img/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-css&#34;&gt;.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Autoformation</title>
+      <link>/post/2019-01-15-autoformation/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/post/2019-01-15-autoformation/</guid>
+      <description>&lt;p&gt;Udemy&lt;/p&gt;
+
+&lt;p&gt;ENI editions&lt;/p&gt;
+
+&lt;p&gt;Tuto&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/post/getting-started/</guid>
+      <description>
+
+&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34; target=&#34;_blank&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34; target=&#34;_blank&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34; target=&#34;_blank&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤️ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+
+&lt;ul&gt;
+&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34; target=&#34;_blank&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34; target=&#34;_blank&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34; target=&#34;_blank&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
+
+&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34; target=&#34;_blank&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34; target=&#34;_blank&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34; target=&#34;_blank&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34; target=&#34;_blank&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34; target=&#34;_blank&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34; target=&#34;_blank&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34; target=&#34;_blank&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>
+
+
+&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;R Markdown&lt;/h1&gt;
+&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &amp;lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Including Plots&lt;/h1&gt;
+&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
+  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
+  init.angle = -50, border = NA
+)&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
+&lt;img src=&#34;./post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;
+Figure 1: A fancy pie chart.
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/contact/</guid>
+      <description>&lt;form action=&#34;https://getform.io/f/db44493a-b878-40b5-9cbc-ef9be827246e&#34; method=&#34;POST&#34;&gt;
+
+    &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;
+    &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;
+    &lt;input type=&#34;tel&#34; name=&#34;tel&#34;&gt;
+    &lt;input type=&#34;text&#34; name=&#34;message&#34;&gt;
+    &lt;button type=&#34;submit&#34;&gt;Send&lt;/button&gt;
+
+&lt;/form&gt;</description>
+    </item>
+    
+    <item>
+      <title>AFGSU 2</title>
+      <link>/cv/formations/afgsu-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/formations/afgsu-2/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Organisme de formation : centre Hospitalier de la côte Basque&lt;/li&gt;
+&lt;li&gt;Date : 20, 21 &amp;amp; 22 mars 2017&lt;/li&gt;
+&lt;li&gt;Durée : 21 h&lt;/li&gt;
+&lt;li&gt;Lieu : Bayonne&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Formation obligatoire dans le cadre de ma fonction au sein du cabinet dentaire&lt;/p&gt;
+
+&lt;p&gt;L’objectif de cetteformation validante (AFGSU 2) est d’identifier et de prendre en charge seul,ou avec son assistant(e)dentaire, un patient en situation d’urgence mettant en jeu son pronostic vital ou fonctionnel en utilisant des techniques non invasives en attendant l’arrivée des urgences. Vous apprendrez à gérer votre stress pour être le plus efficace possible dans la prise en charge de l’Urgence&lt;/p&gt;
+
+&lt;p&gt;Urgences potentielles I&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Malaise vagal&lt;/li&gt;
+&lt;li&gt;Hypoglycémie&lt;/li&gt;
+&lt;li&gt;Crise d’asthme&lt;/li&gt;
+&lt;li&gt;Douleur thoracique&lt;/li&gt;
+&lt;li&gt;Accident vasculaire cérébral&lt;/li&gt;
+&lt;li&gt;Convulsions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Urgences vitales I&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Obstruction des voies aériennes&lt;/li&gt;
+&lt;li&gt;Hémorragies&lt;/li&gt;
+&lt;li&gt;Troubles de la conscience&lt;/li&gt;
+&lt;li&gt;État de choc anaphylactique&lt;/li&gt;
+&lt;li&gt;Arrêt cardio-respiratoire 1 : le  praticien au cabinet dentaire&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Urgences vitales II&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Arrêt cardio-respiratoire 2 : le praticien au cabinet&lt;/li&gt;
+&lt;li&gt;Arrêt cardio-respiratoire 3 : le praticien dans un lieu public&lt;/li&gt;
+&lt;li&gt;Arrêt cardio-respiratoire 4 : le praticien dans un cadre privé&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Urgences potentielles II
+* Plaies et brûlures
+* Traumatismes osseux
+* Accouchement inopiné&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rappels et nouvelles mises en situations pratiques&lt;/li&gt;
+&lt;li&gt;Urgences collectivesLes plans de secours&lt;/li&gt;
+&lt;li&gt;Risques biologiques et chimiques&lt;/li&gt;
+&lt;li&gt;Questions-réponses&lt;/li&gt;
+&lt;li&gt;Évaluation de la formation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Assistant dentaire</title>
+      <link>/cv/formations/assistant-dentaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/formations/assistant-dentaire/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ecole : CNQAOS&lt;/li&gt;
+&lt;li&gt;Lieu : Bayonne, Bordeaux&lt;/li&gt;
+&lt;li&gt;Dates : de juin 2017 à décembre 2018&lt;/li&gt;
+&lt;li&gt;Durée : 18 mois: 590 heures (254 heures en cabinet - 336 heures en centre de formation).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Formation obligatoire dans le cadre de mes activités au sein du cabinet dentaire.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Introduction à la formation 14 heures / 2 jours N00&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ GESTION DU RISQUE INFECTIEUX&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Désinfection, stérilisation 46 heures / 7 jours N02&lt;/li&gt;
+&lt;li&gt;Gestion des stocks 07 heures / 1 jour N09&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ AIDE OPÉRATOIRE&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Imagerie médicale 21 heures / 3 jours N03&lt;/li&gt;
+&lt;li&gt;Le travail à 4 mains 45 heures / 7 jours N06&lt;/li&gt;
+&lt;li&gt;Assistance aux travaux prothétiques et orthodontiques 35 heures / 5 jours N07&lt;/li&gt;
+&lt;li&gt;Gestes et soins d’urgence 14 heures / 2 jours N10&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ HYGIÈNE ET PRÉVENTION AU TRAVAIL&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L’assistant dentaire au sein de son environnement professionnel 07 heures / 1 jour N11&lt;/li&gt;
+&lt;li&gt;Évaluation et prévention des risques au travail 14 heures / 2 jours N12&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ ÉDUCATION À LA SANTÉ BUCCO-DENTAIRE&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prophylaxie et hygiène bucco-dentaire 14 heures / 2 jours N08&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ GESTION DE L’AGENDA&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gestion de l’agenda de l’entreprise 14 heures / 2 jours N04&lt;/li&gt;
+&lt;li&gt;Organisation des Rdv du praticien 14 heures / 2 jours N05&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ ACCUEIL ET COMMUNICATION&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Communiquer avec les patients 21 heures / 3 jours N01&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACTIVITÉ CRÉATION ET SUIVI DES DOSSIERS&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Créer et suivre un dossier patient 28 heures / 4 jours N13&lt;/li&gt;
+&lt;li&gt;Établir et contrôler les dossiers de remboursement 28 heures / 4 jours N14&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Attaché de Direction</title>
+      <link>/cv/xp/2005-attache-direction-strategie-pmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/xp/2005-attache-direction-strategie-pmi/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Entreprise : FAVI&lt;/li&gt;
+&lt;li&gt;Lieu : Brive la gaillarde (19)&lt;/li&gt;
+&lt;li&gt;Date : 2015&lt;/li&gt;
+&lt;li&gt;Durée : 1 ans&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Contrat : CDI&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Activité de l&amp;rsquo;entreprise : Assemblage de sous-ensembles mécanique&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Effectif: 36&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contexte : Le chiffre d&amp;rsquo;affaire de l&amp;rsquo;entreprise dépendait à plus de 80 % d&amp;rsquo;un client.
+Suite à un changement de direction ce client souhaitait stopper la sous-traitance confiée à l&amp;rsquo;entreprise.&lt;/p&gt;
+
+&lt;h3 id=&#34;ma-mission&#34;&gt;Ma mission&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Prospection commerciale afin de trouver des clients succeptible de confier des missions de sous-traitance correspondant aux outils et savaoir faire de l&amp;rsquo;entreprise&lt;/li&gt;
+&lt;li&gt;evaluation du repositionnement stratégique de l&amp;rsquo;entreprise : Etude des opportunités commerciales en reconfigurant l&amp;rsquo;outil industriel ainsi que les équipes techniques : évaluation des investissments nécessaires, des délais de mise en oeuvre &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;mission&#34;&gt;Mission&lt;/h3&gt;
+
+&lt;p&gt;Après plusieurs mois, le client a anticipé la fin de collaboration. Le context a contraint le dirigeant à s&amp;rsquo;orienter vers une fi d&amp;rsquo;activité nécessitant de nouvelles tâches :
+* aide au maintient des livraisons (car départs anticipé de salariés)
+* taches de gestion de stock, logistique (saisie de commande, de bon de livraison, inventaire)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>conception mécanique d&#39;outillages</title>
+      <link>/cv/stages/conception-mecanique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/stages/conception-mecanique/</guid>
+      <description>&lt;p&gt;Entreprise : Visteon
+Service : Qualité
+Lieu : Charleville-Mézières
+Date : 2002
+Durée : 3 mois&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conception d&amp;rsquo;outillage pour la réalisaion de test de production de bloc de climatisation automobile&lt;/li&gt;
+&lt;li&gt;réalisation de devis de fabrication&lt;/li&gt;
+&lt;li&gt;reception&lt;/li&gt;
+&lt;li&gt;test&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Outils :
+* Autocad
+* Catia&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CV Cédric Dromzée</title>
+      <link>/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/cv/</guid>
+      <description>
+
+&lt;p&gt;Mon parcours&lt;/p&gt;
+
+&lt;h3 id=&#34;15-ans-d-expériences-professionnelles&#34;&gt;15 ans d&amp;rsquo;expériences professionnelles&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./page/xp/2014-directeur-etablissement-sante-dentaire-exploitation/&#34;&gt;2017 - 2019 : Directeur d&amp;rsquo;un cabinet médical&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/xp/2010-entrepreneur-startup-pdg/&#34;&gt;2010 - 2017 : PDG d&amp;rsquo;une StartUp d&amp;rsquo;édition de logiciels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/xp/ingenieur-commercial-manageur/&#34;&gt;2006 - 2009 : Ingénieur Commercial en ESN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/xp/2005-attache-direction-strategie-pmi/&#34;&gt;2005 - 2006 : Attaché de direction&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;stages-en-entreprise&#34;&gt;Stages en entreprise&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./page/stages/gestion-de-projet&#34;&gt;2004 : Gestion de projet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/stages/ingenieur-qualite-environnement-stagiaire/&#34;&gt;2003 : Ingénieur Qualité environnement&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/stages/conception-mecanique/&#34;&gt;2002 : Conception d&amp;rsquo;outillage qualité&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/stages/dessinateur-mecanique/&#34;&gt;2001 : Dessinateur industriel outillage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;etudes&#34;&gt;Etudes&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./page/etudes/doctorat-recherche-informatique/&#34;&gt;2012 - 2013 : Thèse en science informatique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/etudes/mastere-entrepreneuriat-esc/&#34;&gt;2004 - 2005 : Mastere spécialisé en entrepreneuriat ESC Toulouse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/etudes/master-dess-ingenierie-industrielle-materiaux/&#34;&gt;1999 - 2004 : MASTER DESS Industriel Matériaux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;porteur-de-projet&#34;&gt;Porteur de projet&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;2019-projet-mean-stack-chatbot-devops&#34; target=&#34;_blank&#34;&gt;2019 - Développement d&amp;rsquo;une application et d&amp;rsquo;un ChatBot basée sur la MEN Stack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;formations&#34;&gt;Formations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./page/formations/assistant-dentaire/&#34;&gt;Assistant dentaire&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/formations/afgsu-2/&#34;&gt;AFGSU 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/formations/meopa/&#34;&gt;MEOPA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;autoformations&#34;&gt;Autoformations&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DESS MASTER ingénierie Industrielle, génie des matériaux</title>
+      <link>/cv/etudes/master-dess-ingenierie-industrielle-materiaux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/etudes/master-dess-ingenierie-industrielle-materiaux/</guid>
+      <description>
+
+&lt;p&gt;Ecole : IFTS
+Lieu : Charleville-Mézières
+Durée : 5 ans
+Dates : entre 1999 et 2004
+Diplomes : DESS MASTER Maîtrise Licence DEUG&lt;/p&gt;
+
+&lt;h3 id=&#34;compétences-acquises-à-l-issue-de-la-formation&#34;&gt;Compétences acquises à l’issue de la formation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Connaissance des matériaux métalliques et plastiques.&lt;/li&gt;
+&lt;li&gt;Connaissance des moyens innovants de production.&lt;/li&gt;
+&lt;li&gt;Maîtrise des concepts et outils d’amélioration des performances.&lt;/li&gt;
+&lt;li&gt;Maîtrise des concepts, des modèles et des logiciels pour la CAO.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maîtrise des modèles et des logiciels pour la simulation en dimensionnement et mise en forme.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ingénierie Industrielle,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;génie des matériaux&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;conception mécanique,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Matériaux : métallurgie, plasturgie,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;qualité, environnement&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PLM, CAO, CFAO,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;concepts et outils d’amélioration des performances,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;gestion de production,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;organiser et coordonner les projets d’industrialisation&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stages :&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dessinateur outillage industriel</title>
+      <link>/cv/stages/dessinateur-mecanique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/stages/dessinateur-mecanique/</guid>
+      <description>&lt;p&gt;Entreprise : USF Traitement de surface
+Date : 2001
+Lieu : Charleville-mézières&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dessinateur mécanique sur Autocad d&amp;rsquo;éléments mécanique de machine spéciale de traitement de surfaces (précontrainte)&lt;/li&gt;
+&lt;li&gt;participation aux actions de qualité : AMDEC&lt;/li&gt;
+&lt;li&gt;formation Autocad&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Directeur d&#39;exploitation</title>
+      <link>/cv/xp/2014-directeur-etablissement-sante-dentaire-exploitation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/xp/2014-directeur-etablissement-sante-dentaire-exploitation/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Entreprise : Cabinet dentaire du pôle santé DUNES&lt;/li&gt;
+&lt;li&gt;Lieu : Capbreton&lt;/li&gt;
+&lt;li&gt;Dates :&lt;/li&gt;
+&lt;li&gt;2014 début d&amp;rsquo;évaluation et Création&lt;/li&gt;
+&lt;li&gt;2016 Exploitation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;création&#34;&gt;Création&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Évaluation d&amp;rsquo;opportunités de reprise de cabinet.&lt;/li&gt;
+&lt;li&gt;Recherche de locaux, évaluation de projets de construction&lt;/li&gt;
+&lt;li&gt;Business plan, étude de marché, prévisionnel,&lt;/li&gt;
+&lt;li&gt;choix du matériel professionnel et technique, évaluation de devis&lt;/li&gt;
+&lt;li&gt;Recherche de financements : pitch banques, évaluation des offres de prêts …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;lancement-du-projet&#34;&gt;Lancement du projet&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Achat d&amp;rsquo;un local brut : notaire &amp;hellip;&lt;/li&gt;
+&lt;li&gt;réalisation du cahier des charges technique&lt;/li&gt;
+&lt;li&gt;réalisation de plans d&amp;rsquo;aménagement et étude d&amp;rsquo;ergonomie&lt;/li&gt;
+&lt;li&gt;Maîtrise d&amp;rsquo;ouvrage, gestion des travaux : suivi de chantier, planification des intervenants et
+livraisons,&lt;/li&gt;
+&lt;li&gt;veille sur les coûts et déblocages de fonds&lt;/li&gt;
+&lt;li&gt;Mise en place de l’organisation du cabinet&lt;/li&gt;
+&lt;li&gt;choix et gestion des fournisseurs et sous-traitants,&lt;/li&gt;
+&lt;li&gt;installation informatique,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;exploitation&#34;&gt;Exploitation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Gestion de ressources humaine : recrutement de collaborateurs, remplçants, proposition de contrats, rupture conventionnelle&lt;/li&gt;
+&lt;li&gt;Animer, organiser et contrôler l&amp;rsquo;activité&lt;/li&gt;
+&lt;li&gt;certifications, contrôle radiologie, incendie, déchets médicaux, accessibilité ERP &amp;hellip;&lt;/li&gt;
+&lt;li&gt;maintenir en conditions opérationnelles (assurer la continuité de la production)&lt;/li&gt;
+&lt;li&gt;Maintenance,&lt;/li&gt;
+&lt;li&gt;achats&lt;/li&gt;
+&lt;li&gt;amélioration continue&lt;/li&gt;
+&lt;li&gt;logistique, de la qualité, de la sécurité et de l&amp;rsquo;environnement.&lt;/li&gt;
+&lt;li&gt;Veiller au respect des obligations légales&lt;/li&gt;
+&lt;li&gt;veille sur la productivité et rentabilité : chiffre d&amp;rsquo;affaire, achats, devis en attente &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Participer au développement du chiffre d’affaire en libérant le praticien
+de certaines tâches tels que la stérilisation, tâches administrative,&lt;/li&gt;
+&lt;li&gt;évaluation des nouveaux investissements&lt;/li&gt;
+&lt;li&gt;Réunion de copropriété et membre du syndic&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;qualité-sécurité-environnement&#34;&gt;Qualité, sécurité, environnement&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;traçabilité&lt;/li&gt;
+&lt;li&gt;Document Unique&lt;/li&gt;
+&lt;li&gt;Incendie : conformité ERP 5, alarme, extincteur,&lt;/li&gt;
+&lt;li&gt;Traitement des déchets : mercuriel, récupérateur d&amp;rsquo;amalgamme, DASRI&lt;/li&gt;
+&lt;li&gt;Radiographie : contrôles Véritas, PCR, plombage&lt;/li&gt;
+&lt;li&gt;Conformité PMR :&lt;/li&gt;
+&lt;li&gt;Sécurité : Procédures d&amp;rsquo;urgence, pharmacie, matériel de réanimation&lt;/li&gt;
+&lt;li&gt;Evaluer les risques&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;outils-informatique&#34;&gt;Outils informatique&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;LOGOS&lt;/li&gt;
+&lt;li&gt;Carestream&lt;/li&gt;
+&lt;li&gt;Doctolib, ClicRDV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;formations&#34;&gt;Formations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AFGSU&lt;/li&gt;
+&lt;li&gt;MEOPA&lt;/li&gt;
+&lt;li&gt;Assistant dentaire&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dr-rouquette-elodie.chirurgiens-dentistes.fr/&#34; target=&#34;_blank&#34;&gt;https://dr-rouquette-elodie.chirurgiens-dentistes.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Formation à l&#39;utilisation du MEOPA</title>
+      <link>/cv/formations/meopa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/formations/meopa/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Organisme de formation : UFSBD&lt;/li&gt;
+&lt;li&gt;Date : 16 &amp;amp; 17/02/2017&lt;/li&gt;
+&lt;li&gt;Durée : 14 h&lt;/li&gt;
+&lt;li&gt;Lieu : Biarritz&lt;/li&gt;
+&lt;li&gt;Certificat de formation a l&amp;rsquo;aide opératoire pour la sédation consciente par protoxyde d&amp;rsquo;azote en chirurgie dentaire&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;objectifs-pédagogiques&#34;&gt;Objectifs pédagogiques&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Développement des connaissances théoriques et pratiques pour administrer le MEOPA&lt;/li&gt;
+&lt;li&gt;Évaluation de la douleur et de l’anxiété du patient&lt;/li&gt;
+&lt;li&gt;Utilisation pratique des gaz médicaux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;première-journée&#34;&gt;PREMIÈRE JOURNÉE&lt;/h3&gt;
+
+&lt;p&gt;Module 1 : Sédation et Analgésie (cours théorique)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Sédation et évaluation de la vigilance&lt;/li&gt;
+&lt;li&gt;Evaluation et traitement de la douleur&lt;/li&gt;
+&lt;li&gt;Evaluation et traitement de l’anxiété&lt;/li&gt;
+&lt;li&gt;Impact de l’analgésie – sédation sur les fonctions vitales&lt;/li&gt;
+&lt;li&gt;Traitements  non  médicamenteux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Module 2 : Généralités sur le MEOPA (cours théorique)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Historique et cadre médico–légal&lt;/li&gt;
+&lt;li&gt;Pharmacologie et pharmacocinétique&lt;/li&gt;
+&lt;li&gt;Effets  secondaires,  toxicité&lt;/li&gt;
+&lt;li&gt;Bonnes pratiques : stockage, manipulation, utilisation&lt;/li&gt;
+&lt;li&gt;Bonnes pratiques : surveillance, monitoring&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;deuxième-journée&#34;&gt;DEUXIÈME JOURNÉE&lt;/h3&gt;
+
+&lt;p&gt;Module 3 : MEOPA en odontologie (cours théorique)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;La douleur en pratique odontologique&lt;/li&gt;
+&lt;li&gt;Position du MEOPA parmi les moyens antalgiques&lt;/li&gt;
+&lt;li&gt;Rappel des indications et contre-indications du MEOPA&lt;/li&gt;
+&lt;li&gt;Associations et interactions (synergie et risques)&lt;/li&gt;
+&lt;li&gt;Exemples de protocoles d’utilisation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Module 4 : Ateliers pratiques&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Utilisation des échelles de douleur&lt;/li&gt;
+&lt;li&gt;Utilisation des échelles de sédation&lt;/li&gt;
+&lt;li&gt;Surveillance, fonctions vitales, monitoring (oxymètre)&lt;/li&gt;
+&lt;li&gt;Manipulation et utilisation du MEOPA&lt;/li&gt;
+&lt;li&gt;Manipulation et utilisation de l’oxygène&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ufsbd.fr/wp-content/uploads/2019/06/MEOPA.pdf&#34; target=&#34;_blank&#34;&gt;http://www.ufsbd.fr/wp-content/uploads/2019/06/MEOPA.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ingénieur Commercial / Directeur d&#39;agence</title>
+      <link>/cv/xp/ingenieur-commercial-manageur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/xp/ingenieur-commercial-manageur/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Lieu : Toulouse / Blagnac&lt;/li&gt;
+&lt;li&gt;Dates entre 2005 et 2009&lt;/li&gt;
+&lt;li&gt;Employeurs SSII/ESN Toulouse : COFRAMI, INGEMECA …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Prestations de services en ingénierie informatique et mécanique B2B
+* Développement commercial : prospection, réponse aux appels d’offres
+* Recrutement : sourcing, anticipation des besoins clients
+* Suivi de projet, gestion budgétaire, reporting, analyse, fidélisation&lt;/p&gt;
+
+&lt;p&gt;Equipe de 25 collaborateurs positionnés auprès de clients de l’industrie
+aéronautique et spatiale :
+AIRBUS CIMPA, LATELEC, MICROTURBO, CNES, CLS, EADS DS, ASTRIUM&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ingénieur Qualité Environnement stagiaire</title>
+      <link>/cv/stages/ingenieur-qualite-environnement-stagiaire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/stages/ingenieur-qualite-environnement-stagiaire/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Entreprise : EDF GDF&lt;/li&gt;
+&lt;li&gt;Lieu : Charleville-Mézières&lt;/li&gt;
+&lt;li&gt;Date : 2003&lt;/li&gt;
+&lt;li&gt;Durée : 8 mois&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;assiste-et-conseille-la-direction-pour-l-élaboration-et-la-mise-en-œuvre-de-la-politique-hsqe&#34;&gt;Assiste et conseille la direction pour l&amp;rsquo;élaboration et la mise en œuvre de la politique HSQE&lt;/h3&gt;
+
+&lt;p&gt;HSQE = Hygiène, Sécurité, Qualité, Environnement&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Qualité environnement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;évaluer-les-risques&#34;&gt;évaluer les risques&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;traitement des déchets dangereux&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;veille-réglementaire&#34;&gt;Veille réglementaire&lt;/h3&gt;
+
+&lt;p&gt;Objectif : être en conformité permanente avec les évolutions des réglementations&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Mettre en place des procédures de veille réglementaire&lt;/li&gt;
+&lt;li&gt;Réaliser une partie de la veille&lt;/li&gt;
+&lt;li&gt;Mettre en place des échanges de résultat veille entre entité régionale&lt;/li&gt;
+&lt;li&gt;support opérationnel aux services afin de garantir la conformité (activités, installations)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;maq-création-de-procédures&#34;&gt;MAQ - Création de procédures&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Analyse des documents (réglementation, normes) afin de confirmer si les services sont concernés&lt;/li&gt;
+&lt;li&gt;Création de procédures en faveur de la protection de l&amp;rsquo;environnement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;diffuser&#34;&gt;Diffuser&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;s&amp;rsquo;assurer que les personnes concernés soient avertis de la procédure&lt;/li&gt;
+&lt;li&gt;s&amp;rsquo;assurer de l&amp;rsquo;application des procédure&lt;/li&gt;
+&lt;li&gt;sensibiliser&lt;/li&gt;
+&lt;li&gt;identification des points de blocages des procédures non appliqués (mesures correctives)&lt;/li&gt;
+&lt;li&gt;support opérationnel aux services afin de garantir la conformité (activités, installations)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;surveillance&#34;&gt;Surveillance&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Création d&amp;rsquo;indicateurs&lt;/li&gt;
+&lt;li&gt;audits internes&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;outilsinformatique&#34;&gt;Outilsinformatique&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bureautique : (Office) Word, Excel, Powerpoint&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Liens</title>
+      <link>/cv/liens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/liens/</guid>
+      <description>
+
+&lt;h3 id=&#34;page-de-liens&#34;&gt;Page de liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://dromzee.fr&#34; target=&#34;_blank&#34;&gt;https://dromzee.fr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://aexium.com&#34; target=&#34;_blank&#34;&gt;https://aexium.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ubicv.com&#34; target=&#34;_blank&#34;&gt;https://ubicv.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rouquette.pro&#34; target=&#34;_blank&#34;&gt;https://rouquette.pro&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dr-rouquette-elodie.chirurgiens-dentistes.fr/&#34; target=&#34;_blank&#34;&gt;https://dr-rouquette-elodie.chirurgiens-dentistes.fr/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mastère spécialisé en &#34;Entrepreneuriat&#34;</title>
+      <link>/cv/etudes/mastere-entrepreneuriat-esc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/etudes/mastere-entrepreneuriat-esc/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Ecole : ESC&lt;/li&gt;
+&lt;li&gt;Lieu : Toulouse&lt;/li&gt;
+&lt;li&gt;Formation : Mastère spécialisé en &amp;ldquo;Entrepreneuriat&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;Durée : 12 mois&lt;/li&gt;
+&lt;li&gt;Dates : entre 2004 et 2005&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;objectifs-pédagogiques&#34;&gt;Objectifs pédagogiques&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Comprendre les enjeux actuels des entreprises et savoir se situer dans un écosystème d’innovation&lt;/li&gt;
+&lt;li&gt;Comprendre et intégrer la créativité au quotidien&lt;/li&gt;
+&lt;li&gt;Etre capable d’identifier des opportunités d’exploitation d’idées nouvelles d’inventions technologiques&lt;/li&gt;
+&lt;li&gt;Former à la prise de décision, à l’élaboration d’une stratégie et à la mise en oeuvre globale d’un projet d’innovation&lt;/li&gt;
+&lt;li&gt;Développer des aptitudes au leadership&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Acquérir les compétences d’un manager responsable du développement d’activités stratégiques et innovantes&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Rentabilité,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Business Model &amp;amp; Pricing,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Ingénierie commerciale,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;business plan,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;innovation,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Management&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Analyse comptable et financière,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SI,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Stratégie,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Marketing,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Organisation de l&amp;rsquo;entreprise&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;GRH&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;liens&#34;&gt;Liens&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tbs-education.fr/fr/formations/ms-msc/masteres-specialises-ms/management-de-innovation-technologique&#34; target=&#34;_blank&#34;&gt;https://www.tbs-education.fr/fr/formations/ms-msc/masteres-specialises-ms/management-de-innovation-technologique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Porteur de projet - volonté d&#39;entreprendre</title>
+      <link>/cv/aex/2009-porteur-de-projet-entrepreneur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/aex/2009-porteur-de-projet-entrepreneur/</guid>
+      <description>
+
+&lt;p&gt;Comment en arrive-ton à se lancer dans un projet de création d&amp;rsquo;entreprise ?&lt;/p&gt;
+
+&lt;p&gt;Je rêvent de créer une &amp;ldquo;affaire&amp;rdquo; depuis mon adolescence.
+probablement inspirer par les projets de création d&amp;rsquo;entreprise de mes parents
+Les années passants je me suis toujours intéréssé aux opportunités d&amp;rsquo;innovation ou de créations d&amp;rsquo;activité que ce soitassociatif ou d&amp;rsquo;entreprise.
+Durant mes études, j&amp;rsquo;ai réaliser de multiples jobs qui m&amp;rsquo;ont permis :
+* de mener des projets personnels et associatif : participation courses croisière à la voile, voyange en europe en moto &amp;hellip;
+* d&amp;rsquo;aquérir des compétences et des responsabilités
+* de prendre conscience de la valeur de l&amp;rsquo;argent&lt;/p&gt;
+
+&lt;h3 id=&#34;mes-motivations&#34;&gt;Mes motivations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le goût d&amp;rsquo;entreprendre&lt;/li&gt;
+&lt;li&gt;l&amp;rsquo;ambition : accomplir un projets difficiles, relever des défis&lt;/li&gt;
+&lt;li&gt;le goût d&amp;rsquo;entreprendre&lt;/li&gt;
+&lt;li&gt;réaliser dans le développement du projet qui m&amp;rsquo;obsède&lt;/li&gt;
+&lt;li&gt;la liberté d’action&lt;/li&gt;
+&lt;li&gt;ne pas s&amp;rsquo;ennuyer&lt;/li&gt;
+&lt;li&gt;créer son propre emploi&lt;/li&gt;
+&lt;li&gt;la volonté d’être indépendant,&lt;/li&gt;
+&lt;li&gt;le besoin de piloter&lt;/li&gt;
+&lt;li&gt;ne pas se sentir enfermés (dans une fonction)&lt;/li&gt;
+&lt;li&gt;prendre les choses en main pour résoudre les problèmes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;veille-pemanente&#34;&gt;Veille pemanente&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Je suis toujours à la recherche d&amp;rsquo;idées qui permettraient de lancer une activité, entreprise ou projet&lt;/li&gt;
+&lt;li&gt;Je suis opportuniste, curieux et ouvert aux évolutions du marché et de l’environnement.&lt;/li&gt;
+&lt;li&gt;je ne me ferme aucun domaine, tout m&amp;rsquo;interesse !&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;prêt-aux-sacrifices-aux-expériences&#34;&gt;Prêt aux sacrifices - aux expériences&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Je n&amp;rsquo;ai pas du tout la même notions de sacrifice que la plupar des personnes&lt;/li&gt;
+&lt;li&gt;Je suis beaucoups plus motivé par l&amp;rsquo;expérience que peut me procurer la réalialisation d&amp;rsquo;un projet que la peur d&amp;rsquo;un échec&lt;/li&gt;
+&lt;li&gt;Je prends les échecs commme des expériences (comprendre ce qui n’a pas marché, pour faire mieux la prochaine fois)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ma seule notion de sacrifice est la perte du temps que je n&amp;rsquo;ai pas passé avec mes filles et ma conjointe.
+Le reste n&amp;rsquo;est que matériel ou nn indispensable.&lt;/p&gt;
+
+&lt;h3 id=&#34;un-contexte-favorable&#34;&gt;Un contexte favorable&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;profonde motivation&lt;/li&gt;
+&lt;li&gt;prêt à un investissement personnel très important : le projet monopolisera mon temps et mon énergie pendant une longue période&lt;/li&gt;
+&lt;li&gt;mettre de côté mes activités extraprofessionnelles&lt;/li&gt;
+&lt;li&gt;soutient de ma conjointe qui adhère au projet&lt;/li&gt;
+&lt;li&gt;prêt pour m&amp;rsquo;entourer de professionnels dans des domaines que je ne connait pas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;des-compétences-nécessaires&#34;&gt;des compétences nécessaires&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;j&amp;rsquo;ai acquis de l&amp;rsquo;expérience et accumuler un capital de départ&lt;/li&gt;
+&lt;li&gt;des bases en comptabilité, en gestion, en commercial&lt;/li&gt;
+&lt;li&gt;compétences technique&lt;/li&gt;
+&lt;li&gt;débrouillard&lt;/li&gt;
+&lt;li&gt;qualités humaines
+
+&lt;ul&gt;
+&lt;li&gt;esprit volontaire, dynamisme.&lt;/li&gt;
+&lt;li&gt;capacité d&amp;rsquo;adaptation&lt;/li&gt;
+&lt;li&gt;surmonter les difficultés&lt;/li&gt;
+&lt;li&gt;optimisme&lt;/li&gt;
+&lt;li&gt;esprit innovant, sortir des sentiers battus,&lt;/li&gt;
+&lt;li&gt;oser prendre des risques&lt;/li&gt;
+&lt;li&gt;pas peur de l’échec.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;se remettre en question
+
+&lt;ul&gt;
+&lt;li&gt;outils de mesure de performances&lt;/li&gt;
+&lt;li&gt;comparer ses réalisations à ses objectifs, de mesurer les écarts et de les analyser&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Ethique personnelle et professionnelle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;expérience&#34;&gt;Expérience&lt;/h3&gt;
+
+&lt;p&gt;on connaît parfaitement&lt;/p&gt;
+
+&lt;p&gt;écueils techniques seront limités&lt;/p&gt;
+
+&lt;p&gt;De l&amp;rsquo;idée au projet&lt;/p&gt;
+
+&lt;p&gt;Au départ l&amp;rsquo;envie d&amp;rsquo;entreprendre sur ce que je connait
+mais
+Définition et analyse critique de l&amp;rsquo;idée
+idéée 1 : prestation de service
+* echercher en toute objectivité les forces et surtout les faiblesses de son projet
+* pb recrutement
+* pbdes missions de courte durée
+Obj 2 : Recrutement&lt;/p&gt;
+
+&lt;p&gt;finalement La création ex nihilo
+ bâtir de toutes pièces une nouvelle entreprise.
+la recherche du projet
+Une opportunité avec le labo circonstances lui ayant offert l&amp;rsquo;opportunité de se lancer&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>porteur projet d&#39;application Web</title>
+      <link>/cv/xp/2019-projet-mean-stack-chatbot-devops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/xp/2019-projet-mean-stack-chatbot-devops/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Entreprise :&lt;/li&gt;
+&lt;li&gt;Lieu : capbreton (40)&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Dates : 2019 en cours&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;RGPD&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ChatBot&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Redmine&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Odoo (a confirmer)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;responsive design&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;technologies&#34;&gt;technologies&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;OpenStack&lt;/li&gt;
+&lt;li&gt;Redis&lt;/li&gt;
+&lt;li&gt;MongoDB&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Proteur de projet</title>
+      <link>/cv/stages/gestion-de-projet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/stages/gestion-de-projet/</guid>
+      <description>&lt;p&gt;Date : 2004
+Durée : 7 mois
+Lieu : Toulouse&lt;/p&gt;
+
+&lt;p&gt;Etude de la faisabilité économique, technique et industrielle d&amp;rsquo;un automate d&amp;rsquo;archivage&lt;/p&gt;
+
+&lt;p&gt;Equipe de 5 personnes : profil ingénieur informatique, juriste, ingénierie mécanique, audit financier
+Acompagnement pas des chef d&amp;rsquo;entreprises&lt;/p&gt;
+
+&lt;p&gt;Projet commun entre entre le Dess industriel et le matere entrepreneuriat&lt;/p&gt;
+
+&lt;p&gt;Projet primé par la chambre régional de commerce à Toulouse&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Président AEXIUM SAS</title>
+      <link>/cv/loisirs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/loisirs/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Nouvelles technologies&lt;/li&gt;
+&lt;li&gt;Ballades en famille&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En suspend
+* Pilotage avion
+* voile
+* golf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Président AEXIUM SAS</title>
+      <link>/cv/xp/2010-entrepreneur-startup-pdg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/xp/2010-entrepreneur-startup-pdg/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Entreprise : AEXIUM SAS&lt;/li&gt;
+&lt;li&gt;Lieu : Bidart (64)&lt;/li&gt;
+&lt;li&gt;Dates :&lt;/li&gt;
+&lt;li&gt;2009 étude de projet&lt;/li&gt;
+&lt;li&gt;2010 Création&lt;/li&gt;
+&lt;li&gt;2017 Fin d&amp;rsquo;activité&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;TPE innovante positionnée comme éditeur de logiciels
+projet initial :
+* B2B framework
+* UbiCV&lt;/p&gt;
+
+&lt;p&gt;La création d&amp;rsquo;une start-up nécessite une approche multidisciplinaire.&lt;/p&gt;
+
+&lt;h3 id=&#34;historique&#34;&gt;Historique&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./page/aex/2009-porteur-de-projet-entrepreneur/&#34;&gt;Etape 1 : 2009 - Proteur de projet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/aex/2010-creation-entreprise/&#34;&gt;Etape 2 : 2010 - Création d&amp;rsquo;entreprise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;./page/etudes/doctorat-recherche-informatique/&#34;&gt;Travaux de recherche en science informatique&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;incubation - développement - recrutement&lt;/li&gt;
+&lt;li&gt;repositionnement stratégique&lt;/li&gt;
+&lt;li&gt;fin d&amp;rsquo;activité&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La création d&amp;rsquo;une start-up nécessite une approche multidisciplinaire.
+Ainsi j&amp;rsquo;ai occupé de multiples fonctions tels que :&lt;/p&gt;
+
+&lt;h3 id=&#34;entrepreneur-dirigeant-fondateur-d-une-startup&#34;&gt;Entrepreneur : Dirigeant fondateur d’une StartUp&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Identifie les problèmes - Trouve des solutions&lt;/li&gt;
+&lt;li&gt;capacité d&amp;rsquo;adaptation - doit pouvoir executer toutes les fonctions de l&amp;rsquo;entreprise&lt;/li&gt;
+&lt;li&gt;être en veille en permanence pour détecter toutes nouvelles opportunité ou danger pour l&amp;rsquo;entreprise&lt;/li&gt;
+&lt;li&gt;rediger le CGU CGV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;création-d-entreprise&#34;&gt;création d&amp;rsquo;entreprise&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Business plan (stratégie, prévisionnel),&lt;/li&gt;
+&lt;li&gt;montage de projets&lt;/li&gt;
+&lt;li&gt;Recherche de financements : institutionnel, fiscalité (JEI, CIR) …&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;financement-de-l-innovation&#34;&gt;Financement de l&amp;rsquo;innovation&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Montage de dossier de rescrit fiscaux sur le statut de JEi et CIR&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;gestion-administrative-et-financière&#34;&gt;Gestion administrative et financière :&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;comptabilité,&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;facturation …&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Je bénéficie de l&amp;rsquo;expérience d&amp;rsquo;un contrôle URSSAF&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Confrontation administration fiscale&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;rh-gestion-du-personnel&#34;&gt;RH - Gestion du personnel&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Recrutement : publication d&amp;rsquo;offres, sourcing, entretiens, évaluations &amp;hellip;&lt;/li&gt;
+&lt;li&gt;Suivi : temps de travail, congés, formations &amp;hellip;&lt;/li&gt;
+&lt;li&gt;plannings, paies&lt;/li&gt;
+&lt;li&gt;Mise en place de la complémentaire santé&lt;/li&gt;
+&lt;li&gt;Rupture conventionnelle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;management-et-gestion-de-projet&#34;&gt;Management et gestion de projet&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;planification, animation d’équipe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;commercial&#34;&gt;Commercial&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;prospection,&lt;/li&gt;
+&lt;li&gt;veille économique&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;partenariats&#34;&gt;Partenariats&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Incubateur&lt;/li&gt;
+&lt;li&gt;LIUPPA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;recherche-scientifique-et-technique&#34;&gt;recherche scientifique et technique&lt;/h3&gt;
+
+&lt;p&gt;Partenariat avec le laboratoire de recherche public en science informatique LIUPPA ce qui m&amp;rsquo;a ammené à réaliser 18 mois de thèse Doctorale au sein du laboratoire de recherche&lt;/p&gt;
+
+&lt;p&gt;Cette expérence est plus détaillées dans la section : &lt;a href=&#34;https://dromzee.fr/page/etudes/doctorat-recherche-informatique/&#34; target=&#34;_blank&#34;&gt;Etudes - Thèse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;administrateur-système&#34;&gt;Administrateur système&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;AZURE&lt;/li&gt;
+&lt;li&gt;Hyper-v&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PROXMOXX&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Déploiement d&amp;rsquo;application Java EE&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;SmartGit&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PrimeFaces&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Glassfish&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;VPS OVH&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;sous Debian Virtualmin ClamAV, Postfix, SpamAssassin, Bind&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;PostgreSQL&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;ECM GED : Alfresco - intégration avec UbiCV via les API&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;emails-transactionnels&#34;&gt;Emails Transactionnels&lt;/h3&gt;
+
+&lt;p&gt;Traçabilité des :
+* envois d&amp;rsquo;email de création / validation de compte
+* campagnes d&amp;rsquo;emailing
+* validation existence d&amp;rsquo;adresse mail
+* statistiques utilisateurs
+* délivrabilité
+* &lt;a href=&#34;https://fr.sendinblue.com&#34; target=&#34;_blank&#34;&gt;SendinBlue&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;dbo&#34;&gt;DBO&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;SQL Server&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Redmine*&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;configuration réseau&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Installation configuration d&amp;rsquo;OS : Windows Server, W10, Debian, Ubuntu Server&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Apache&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Repository : Git&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Maven&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Piwik&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;responsive design&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;protection-des-donnée-personnelle-ex-rgpd&#34;&gt;Protection des donnée personnelle (ex-RGPD)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Responsable de traitement&lt;/li&gt;
+&lt;li&gt;Nommer le salarié CIL -&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;community-manager&#34;&gt;Community manager&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Tenu d&amp;rsquo;un blog sous wordpress&lt;/li&gt;
+&lt;li&gt;Configuration de la diffusions des offres d&amp;rsquo;emplois sur twitter, Facebook, sites des clients &amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;sécurité&#34;&gt;Sécurité&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;WireShark&lt;/li&gt;
+&lt;li&gt;plainte pour piratage&lt;/li&gt;
+&lt;li&gt;OpenSSL - generation de certificats,&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;production-développement-logiciel&#34;&gt;Production - développement logiciel&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;HTML, CSS, Javascript, Bootstrap&lt;/li&gt;
+&lt;li&gt;JQuery&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;qualité&#34;&gt;Qualité&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;procédures et les instructions&lt;/li&gt;
+&lt;li&gt;tableaux de bord, indicateurs&lt;/li&gt;
+&lt;li&gt;Document Unique&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;formations&#34;&gt;Formations&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Conformité CNIL&lt;/li&gt;
+&lt;li&gt;ocean bleu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;autes-tests&#34;&gt;autes tests&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Odoo&lt;/li&gt;
+&lt;li&gt;Own Cloud&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;communauté&#34;&gt;communauté&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;stackoverflow&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/cv/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/publications/</guid>
+      <description>&lt;p&gt;Liste de publications :&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recherche</title>
+      <link>/cv/etudes/doctorat-recherche-informatique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/etudes/doctorat-recherche-informatique/</guid>
+      <description>&lt;p&gt;18 mois de thèse en science informatique&lt;/p&gt;
+
+&lt;p&gt;Lieu : Laboratoire de recherche LIUPPA à Anglet
+Dates : entre 2011 et 2012&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Web sémantique, adaptation de documents multimédias dans les environnements ubiquitaires et pervasifs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;[Publications]/cv/publications/&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>/cv/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/a-propos/</guid>
+      <description>
+
+&lt;p&gt;Bienvenue sur mon site personnel.&lt;/p&gt;
+
+&lt;h3 id=&#34;objectifs-du-site&#34;&gt;Objectifs du site&lt;/h3&gt;
+
+&lt;p&gt;Ce site me permet de présenter mes expériences professionnelles (mon CV) dans l&amp;rsquo;objectif de trouver de nouvelles opportunités professionnelles.&lt;/p&gt;
+
+&lt;p&gt;Comme mon entourage me demandent régulièrement des conseils et du support pour l&amp;rsquo;installation, la configuration et la maintenance d&amp;rsquo;outils informatique, j&amp;rsquo;utilise ce site pour publier quelques billets tels que : mon avis sur certain outils que j&amp;rsquo;ai testé, des solutions à des problèmes rencontrés&lt;/p&gt;
+
+&lt;h3 id=&#34;ma-vie-privée&#34;&gt;Ma vie privée&lt;/h3&gt;
+
+&lt;p&gt;Je m&amp;rsquo;appel Cédric Dromzée, j&amp;rsquo;ai 40 ans.
+Avec ma conjointe et mes deux filles nous sommes installés à Capbreton, une petite ville de côte sud des Landes qui nous offre une grande qualité de vie.&lt;/p&gt;
+
+&lt;h3 id=&#34;le-pro&#34;&gt;le pro&lt;/h3&gt;
+
+&lt;p&gt;Je me considère comme un entrepreneur, j&amp;rsquo;ai porté plusieurs projets que se soit associatif ou d&amp;rsquo;entreprises.
+Dans l&amp;rsquo;attente de trouver une nouvelle opportunité professionnelle j&amp;rsquo;acquier de nouvelles compétences en gèrant le cabinet dentaire de ma conjointe tout en travaillant sur le développement d&amp;rsquo;un logiciel.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

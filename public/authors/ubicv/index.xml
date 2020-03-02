@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cédric Dromzée FR</title>
+    <link>/authors/ubicv/</link>
+      <atom:link href="/authors/ubicv/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cédric Dromzée FR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><copyright>Tous droits réservés - 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cédric Dromzée FR</title>
+      <link>/authors/ubicv/</link>
+    </image>
+    
+  </channel>
+</rss>
