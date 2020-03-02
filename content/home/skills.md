@@ -15,27 +15,36 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "seaborn, Sklearn, Django , Dash, Flask"
+
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Développement"
-  description = "✔ Python ✔ R"
+  name = "R"
+  description = "R shiny"
+
   
 [[feature]]
-  icon = "chart-line"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  name = "Machine Learning"
+  description = "Apprentissage automatique ou d'apprentissage supervisé avec scikit-learn" 
+
+
+[[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Deep Learning"
+  description = "Apprentissage profond ou d'apprentissage non supervisé"
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Management"
-  description = "✔ Gestion de projet ✔ RH"
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Entrepreneur"
-  description = "✔ Direction de centre de profit"
+  description = "✔ Gestion de projet ✔ Agile"
 
 +++
