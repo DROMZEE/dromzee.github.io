@@ -21,15 +21,10 @@ education:
 
 email: "cedric@dromzee.fr"
 interests:
-- Développement :
-    * Python : Django, plotly/dash
-    * R : shiny
-- Intelligence artificielle (IA)
-    * Machine Learning : sklearn
-    * Deep Learning
-    * Chatbot
-- Science des données :
-    * SQL / NoSQL
+- Développement : Python, R
+- Intelligence artificielle (IA): Machine Learning, Deep Learning
+- Chatbot
+- Science des données : SQL / NoSQL
 
 - Entrepreneuriat
 name: Cédric Dromzée 🚀
