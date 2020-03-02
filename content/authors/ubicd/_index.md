@@ -38,7 +38,7 @@ social:
   icon_pack: fab
   link: https://github.com/DROMZEE
 - icon: stack-overflow
-  icon_pack: fas
+  icon_pack: fab
   link: https://stackoverflow.com/users/2606247/
 - icon: twitter
   icon_pack: fab
@@ -62,6 +62,7 @@ Cette formation de 19 mois nous permets de développer nos compétences sur les 
     ✔ Bases de données : SQL, NoSQL
 
 Je travaille également sur un projet me permettant de développer d'autres compétences tels que :
+
     ✔ le framework Django avec PostgreSQL 
     ✔ DevOps : GitLab / Redmine, Kubernetes, Docker
 
