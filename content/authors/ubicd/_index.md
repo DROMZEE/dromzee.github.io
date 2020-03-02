@@ -1,61 +1,73 @@
 ---
 authors:
-- ubicv
-bio: ✔ Développeur Data & IA ✔ DevOps ✔ Entrepreneur ✔ Manageur 
+- dromzee
+bio: ✔ Développeur Data & IA ✔ DevOps ✔ Entrepreneur 
   matter.
 education:
   courses:
-  - course: DESS / MATER en ingénierie industrielle, mécanique et matériaux
+  - course: 18 mois éveloppeur Data IAs
+    institution: SIMPLON MICROSOFT BIARRITZ
+    year: 2020
+  - course: 18 mois de thèse doctorale en science informatique
+    institution: research LIUPPA laboratory
+    year: 2011
+  - course: Mastère Spécialisé en Entrepreneuriat
+    institution: TBS Business School
+    year: 2005
+  - course: MASTER DESS en ingénierie industrielle, simulation numérique
     institution: IFTS
     year: 2004
-  - course: S Mastère Spécialisé en Entrepreneuriat
-    institution: ESC Toulouse
-    year: 2005
-  - course: 8 mois de thèse doctorale en science informatique
-    institution: LIUPPA
-    year: 2011
+
 
 email: "cedric@dromzee.fr"
 interests:
+- Développement :
+    * Python : Django, plotly/dash
+    * R : shiny
 - Intelligence artificielle (IA)
-- Science des données
-- Développement
+    * Machine Learning : sklearn
+    * Deep Learning
+    * Chatbot
+- Science des données :
+    * SQL / NoSQL
+
 - Entrepreneuriat
-name: Cédric Dromzée  40 ans Capbreton
+name: Cédric Dromzée 🚀
 organizations:
-- name: AEXIUM SAS
-  url: "https://aexium.com/"
-role: Dirigeant foundateur de la startup
+- name: 40 ans Capbreton
+  url: "https://dromzee.fr"
+role: Développeur Data IA
 social:
-- icon: envelope
+- icon: github
+  icon_pack: fab
+  link: https://github.com/DROMZEE
+- icon: stack-overflow
   icon_pack: fas
-  link: '#contact'
+  link: https://stackoverflow.com/users/2606247/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dromzee
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Je développe une WebApp avec des technologies :
- 
-    ✔ MEAN stack : mongoDB, Express, Angular, NodeJS
-    ✔ DevOps : GitLab / Redmine, Kubernetes, Docker
-    ✔ Chatbot : Dialogflow
+Actuellement en formation [Développeur Data IA](https://simplon.co/ecoleia/) chez *[Simplon](https://simplon.co/ecoleia/)* en partenariat avec Microsoft. 
 
-J'intègre la formation [Développeur Data IA](https://simplon.co/ecoleia/) de *[Simplon](https://simplon.co/ecoleia/)* qui me permettra de développer mes compétences :
+Cette formation de 19 mois nous permets de développer nos compétences sur les téchnologies et outils:
 
-    ✔ R, Python : numpy, pandas, matplotlib ... 
-    ✔ Bases de données : SQL, NoSQL
     ✔ IA : machine learning, deep learning, Chatbot ...
+    ✔ 🐍 Python : numpy, pandas, matplotlib, sklearn
+    ✔ R : shiny
+    ✔ Bases de données : SQL, NoSQL
+
+Je travaille également sur un projet me permettant de développer d'autres compétences tels que :
+    ✔ le framework Django avec PostgreSQL 
+    ✔ DevOps : GitLab / Redmine, Kubernetes, Docker
 
 # Entrepreneur / Manageur
 
@@ -69,13 +81,13 @@ Mes expériences de création d'entreprise et de développement de centre de pro
 
 > ➤ Vous recherchez un profil polyvalent, disponible, capable de prendre en charge des projets nécessitant de la technicité et du leadership ?
 
->> ➤ Alors [contactez-moi !](#contact)
+>> ➤ 🎯 [contactez-moi !](#contact)
 
 
 # Mes qualités
 
-- [x] Réactivité
 - [x] Créativité
 - [x] Curiosité
 - [x] Adaptabilité
 - [x] Autonomie
+- [x] Réactivité
