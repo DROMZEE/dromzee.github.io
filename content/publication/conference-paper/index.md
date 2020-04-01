@@ -1,15 +1,8 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Currently, multimedia documents can be accessed at anytime and anywhere with a wide variety of mobile devices, e.g., laptops, smartphones, tablets. Obviously, platforms heterogeneity, user's preferences and context variations require documents adaptation according to execution constraints, e.g., audio contents may not be played while a user is participating at a meeting. Current context modeling languages do not handle such a real life user constraints. They generally list multiple information values that are interpreted by adaptation processes in order to deduce implicitly such high-level constraints. This paper overcomes this limitation by proposing a novel context modeling approach based on services where context information are linked according to explicit high-level constraints. In order to validate our proposal, we have used Semantic Web technologies by specifying RDF profiles and experiment their usage on several platforms. 
 authors:
-- admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+- ubicd
+date: "2012-04-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -17,15 +10,15 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: HAL
+  url: https://hal.archives-ouvertes.fr/hal-00686176
 projects:
 - internal-project
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2014-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -34,7 +27,7 @@ tags:
 title: An example conference paper
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://hal.archives-ouvertes.fr/hal-00686176/document
 url_poster: '#'
 url_project: ""
 url_slides: ""
@@ -42,13 +35,4 @@ url_source: '#'
 url_video: '#'
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

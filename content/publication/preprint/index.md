@@ -1,23 +1,17 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Currently, multimedia documents can be accessed at anytime and anywhere with a wide variety of mobile devices, such as laptops, smartphones, and tablets. Obviously, platform heterogeneity, users’ preferences, and context variations require document adaptation according to execution constraints. For example, audio contents may not be played while a user is participating in a meeting. Current context modeling languages do not handle such real life user constraints. These languages generally list multiple information values that are interpreted by adaptation processes in order to deduce implicitly such high-level constraints. In this chapter, the authors overcome this limitation by proposing a novel context modeling approach based on services, where context information is linked according to explicit high-level constraints. In order to validate the proposal, the authors have used semantic Web technologies by specifying RDF profiles and experimenting on their usage on several platforms.
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- ubicd
+date: "2013-04-07T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://coverimages.igi-global.com/cover-images/covers/9781466628335.webp)'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: A Semantic Generic Profile for Multimedia Document Adaptation
+  url: https://www.igi-global.com/gateway/chapter/73990
 projects:
 - internal-project
 publication: ""
@@ -30,7 +24,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example preprint / working paper
+title: Adapting Multimedia Documents with a Semantic Generic Profile
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1
@@ -41,8 +35,3 @@ url_source: '#'
 url_video: '#'
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

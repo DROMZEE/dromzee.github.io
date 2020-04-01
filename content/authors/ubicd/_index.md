@@ -1,11 +1,11 @@
 ---
 authors:
 - dromzee
-bio: ✔ Développeur Data & IA ✔ Entrepreneur 
+bio: 🎯 Développeur Data & IA 
   matter.
 education:
   courses:
-  - course: 18 mois éveloppeur Data IAs
+  - course: 19 mois Développeur Data IA
     institution: SIMPLON MICROSOFT BIARRITZ
     year: 2020
   - course: 18 mois de thèse doctorale en science informatique
@@ -20,29 +20,22 @@ education:
 
 
 email: "cedric@dromzee.fr"
-interests:
-- Développement
-- Machine Learning
-- Deep Learning
-- Chatbot
-- Science des données
 
-- Entrepreneuriat
 name: Cédric Dromzée 🚀
 organizations:
 - name: 40 ans Capbreton
   url: "https://dromzee.fr"
 role: Développeur Data IA
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/dromzee/?locale=fr_FR
 - icon: github
   icon_pack: fab
   link: https://github.com/DROMZEE
 - icon: stack-overflow
   icon_pack: fab
   link: https://stackoverflow.com/users/2606247/
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/dromzee
 - icon: envelope
   icon_pack: fas
   link: '#contact'
@@ -54,37 +47,19 @@ user_groups:
 
 Actuellement en formation [Développeur Data IA](https://simplon.co/ecoleia/) chez *[Simplon](https://simplon.co/ecoleia/)* en partenariat avec Microsoft. 
 
-Cette formation de 19 mois nous permets de développer nos compétences sur les téchnologies et outils:
+Nous développons nos compétences sur les téchnologies et outils :
 
-    ✔ IA : machine learning, deep learning, Chatbot ...
-    ✔ 🐍 Python : numpy, pandas, matplotlib, sklearn
+    ✔ IA : machine learning, deep learning, NLP Chatbot ...
+    ✔ 🐍 Python : numpy, pandas, matplotlib, sklearn, Flask, Dash
     ✔ R : shiny
-    ✔ Bases de données : SQL, NoSQL
+    ✔ Bases de données : SQL, NoSQL, MariaDB, PostgreSQL, MongoDB, neo4j, Hadoop, Spark
+    ✔ scrapping, git
+    
+Je m'autoforme sur le framework ```Django``` et je fais du ```DevOps``` avec ``Kubernetes et Docker`` ainsi que de la gestion de projet avec ```Redmine```
 
-Je travaille également sur un projet me permettant de développer d'autres compétences tels que :
+je dispose de 15 ans d'expérience professionnelle :
 
-    ✔ le framework Django avec PostgreSQL 
-    ✔ DevOps : GitLab / Redmine, Kubernetes, Docker
+    ▶ ️2009 – 2019 Fondateur AEXIUM SAS – Start-up de recherche informatique à Bidart
+    ⁉️ 2016 – 2019 Création et management du cabinet dentaire de ma conjointe à Capbreton
+    ✅ 2005 – 2009 Ingénieur Commercial & management en ESN à Toulouse
 
-# Entrepreneur / Manageur
-
-Mes expériences de création d'entreprise et de développement de centre de profit m'ont permises d'acquérir de multiples compétences transversales telles que :
-
-    ✔ Management : définir les objectifs et les moyens, contrôler
-    ✔ Gestion de projet : organiser, planifier, évaluer
-    ✔ Direction de centre de profit : Business Plan, financement, stratégie
-    ✔ RH : sourcing, recrutement, évaluation, formation, motivation
-    ✔ Commercial : prospection, propositions, négociation, suivi
-
-> ➤ Vous recherchez un profil polyvalent, disponible, capable de prendre en charge des projets nécessitant de la technicité et du leadership ?
-
->> ➤ 🎯 [contactez-moi !](#contact)
-
-
-# Mes qualités
-
-- [x] Créativité
-- [x] Curiosité
-- [x] Adaptabilité
-- [x] Autonomie
-- [x] Réactivité

@@ -23,13 +23,10 @@ date_format = "Jan 2006"
   company_url = "https://aexium.com/"
   location = "Bidart, France"
   date_start = "2010-07-21"
-  date_end = "2018-07-21"
+  date_end = "2019-09-02"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
@@ -38,26 +35,16 @@ date_format = "Jan 2006"
   company_url = "https://dr-rouquette-elodie.chirurgiens-dentistes.fr/"
   location = "Capbreton, France"
   date_start = "2016-01-01"
-  date_end = ""
+  date_end = "2019-08-01"
   description = """#Création du cabinet dentaire #Management #RH #Business plan #RH"""
 
 [[experience]]
   title = "Ingénieur Commercial en ESN"
-  company = "COFRAMI (AKKA)"
+  company = "ESN : COFRAMI AKKA INGEMECA"
   company_url = "https://www.akka-technologies.com/"
   location = "Toulouse, France"
-  date_start = "2006-01-01"
+  date_start = "2005-01-03"
   date_end = "2009-01-11"
   description = """#commercial #Management #RH #Suivi de projet #IT #Ingénierie #aéronautique #spatial"""
-  
-[[experience]]
-  title = "Attaché de direction"
-  company = "FAVI"
-  company_url = "https://www.societe.com/societe/favi-400310702.html"
-  location = "Brive la gaillarde, France"
-  date_start = "2005-04-01"
-  date_end = "2006-07-01"
-  description = """#commercial #prospection #stratégie #mécanique"""
-  
   
 +++
