@@ -1,8 +1,14 @@
 ---
 authors:
 - dromzee
-bio: 🎯 Développeur Data & IA 
-  matter.
+bio: Développeur Data IA
+# interests:
+#   - ️2009 – 2019
+#     > Fondateur AEXIUM SAS – 
+#     Start-up de recherche informatique à Bidart
+#   - 2016 – 2019 Création et management du cabinet dentaire de ma conjointe à Capbreton
+#   - 2005 – 2009 Ingénieur Commercial & management en ESN à Toulouse
+
 education:
   courses:
   - course: 19 mois Développeur Data IA
