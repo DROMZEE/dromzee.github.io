@@ -8,5 +8,6 @@ summary: Projet Django - Everycheese
 tags:
 - Django
 - Framework
+- Python
 title: Django - Everycheese
 ---

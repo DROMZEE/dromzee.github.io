@@ -6,8 +6,9 @@ image:
   focal_point: Smart
 summary: Chatbot de base écrit en Python avec TextBlob.
 tags:
-- Demo
 - Chatbot
+- Python
+- NLP
 - TextBlob
 title: Chatbot Python
 ---

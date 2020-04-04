@@ -6,8 +6,8 @@ image:
   focal_point: Smart
 summary: Projet Flask de reconnaissance de caractères `MNIST`.
 tags:
-- Demo
 - Flask
+- Python
 - MNIST
 title: Flask MNIST
 ---

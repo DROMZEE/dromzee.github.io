@@ -6,8 +6,8 @@ image:
   focal_point: Smart
 summary: Tuto de prise en main de `Docker`.
 tags:
-- Demo
 - Docker
 - nginx
+- Python
 title: Docker et nginx
 ---

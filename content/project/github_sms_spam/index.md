@@ -6,7 +6,9 @@ image:
   focal_point: Smart
 summary: Classification de SMS en spam ou ham
 tags:
-- Demo
 - NLP
-title: NLP - SMS
+- sklearn
+- Python
+- Pandas
+title: NLP classification SMS
 ---

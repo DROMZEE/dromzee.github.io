@@ -24,10 +24,42 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+    
+  [[content.filter_button]]
+    name = "Chatbot"
+    tag = "Chatbot"
+    
+  [[content.filter_button]]
+    name = "Python"
+    tag = "Python"
+    
+  [[content.filter_button]]
+    name = "Docker"
+    tag = "Docker"
+    
+  [[content.filter_button]]
+    name = "Flask"
+    tag = "Flask"
+    
+  [[content.filter_button]]
+    name = "NLP"
+    tag = "NLP"
   
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
+    
+  [[content.filter_button]]
+    name = "Machine Learning"
+    tag = "Machine Learning"
+    
+  [[content.filter_button]]
+    name = "Scikit-Learn"
+    tag = "sklearn"
+    
+  [[content.filter_button]]
+    name = "MongoDB"
+    tag = "MongoDB"
   
   [[content.filter_button]]
     name = "Django"
