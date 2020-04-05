@@ -1,21 +1,24 @@
 ---
-title: Directeur d'exploitation
+title: Directeur
 subtitle: Création et développement d'un cabinet dentaire
 comments: false
+#date_format = "Jan 2006"
+date: 2019-09-01
 tags: ["CV", "expériences", "Qualité", "exploitation"]
+author: "ubicd"
 ---
 
 * Entreprise : Cabinet dentaire du pôle santé DUNES
 * Lieu : Capbreton
 * Dates :
-*  2014 début d'évaluation et Création
-*  2016 Exploitation
+  * 2014 début d'évaluation et Création
+  * 2016 Exploitation
 
 ### Création
 
 * Évaluation d'opportunités de reprise de cabinet.
 * Recherche de locaux, évaluation de projets de construction
-* Business plan, étude de marché, prévisionnel, 
+* Financement : Business plan, étude de marché, prévisionnel ```-> 500 000 €``` 
 * choix du matériel professionnel et technique, évaluation de devis
 * Recherche de financements : pitch banques, évaluation des offres de prêts …
 
@@ -63,14 +66,13 @@ de certaines tâches tels que la stérilisation, tâches administrative,
 
 * LOGOS
 * Carestream
-* Doctolib, ClicRDV
+* Doctolib
 
 ### Formations
 
-- AFGSU
+- AFGSU 2
 - MEOPA
-- Assistant dentaire
-- 
+- Assistant dentaire (CNQAOS 18 mois)
 
 ### Liens
 

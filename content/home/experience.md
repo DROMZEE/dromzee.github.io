@@ -33,13 +33,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Directeur"
-  company = "Cabinet dentaire"
-  company_url = "https://dr-rouquette-elodie.chirurgiens-dentistes.fr/"
+  title = "Directeur Fondateur"
+  company = "Cabinet dentaire du pôle santé DUNES"
+  company_url = "/cv/xp/2014-directeur-cabinet-dentaire/"
   location = "Capbreton, France"
   date_start = "2016-01-01"
   date_end = "2019-08-01"
-  description = """#Création du cabinet dentaire #Management #RH #Business plan #RH"""
+  description = """Création et management du cabinet dentaire de ma conjointe : montage du projet, recherche de financement (500 000 €), suivi de chantier, mise en production, développement (recrutements, investissements) amélioration continue ..."""
 
 [[experience]]
   title = "Ingénieur Commercial en ESN"
@@ -48,6 +48,6 @@ date_format = "Jan 2006"
   location = "Toulouse, France"
   date_start = "2005-01-03"
   date_end = "2009-01-11"
-  description = """#commercial #Management #RH #Suivi de projet #IT #Ingénierie #aéronautique #spatial"""
+  description = """Ingénieur Commercial et Manageur au sein de sociétés d'ingénierie auprès de clients de l' industrie aéronautique et spatiale"""
   
 +++
