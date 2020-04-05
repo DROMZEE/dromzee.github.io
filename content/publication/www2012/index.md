@@ -6,7 +6,7 @@ date: "2012-04-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](/tim-berners-lee-www2012.jpg)'
   focal_point: ""
   preview_only: false
 links:
@@ -18,13 +18,12 @@ publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
 - "1"
-publishDate: "2014-01-01T00:00:00Z"
+publishDate: "2012-04-20T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: International Workshop on Interoperability of User Profiles in Multi-Application Web Environments (MultiA-Pro 2012), in conjunction with the World Wide Web Conference (WWW 2012)
 tags:
 - Source Themes
-title: An example conference paper
+title: Towards an interoperable device profile containing rich user constraints
 url_code: '#'
 url_dataset: '#'
 url_pdf: https://hal.archives-ouvertes.fr/hal-00686176/document

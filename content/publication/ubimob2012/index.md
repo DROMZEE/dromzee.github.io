@@ -20,7 +20,7 @@ publication_short: In *STC*
 publication_types:
 - "1"
 publishDate: "2012-06-04T00:00:00Z"
-summary: .
+summary: Ubimob 2012
 tags:
 - Source Themes
 title: Décrire avec RDF des profils pour applications pervasives multimédias

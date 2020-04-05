@@ -9,19 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 20
-
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+  name = "Projects"
+  url = "#projects"
+  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
+
+#[[main]]
+#  name = "Blog"
+#  url = "#posts"
+#  weight = 50
 
 [[main]]
   name = "Contact"
@@ -32,5 +32,16 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
     name = "CV"
-    url = "files/2020_04_DROMZEE_CV_DEVELOPPEUR_DATA_IA_Python.pdf"
     weight = 70
+
+[[main]]
+    name = "Exp pro"
+    parent = "CV"
+    url = "#experience"
+    weight = 71
+
+[[main]]
+    name = "CV en PDF"
+    parent = "CV"
+    url = "files/2020_04_DROMZEE_CV_DEVELOPPEUR_DATA_IA_Python.pdf"
+    weight = 71

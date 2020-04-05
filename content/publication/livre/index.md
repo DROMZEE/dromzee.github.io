@@ -18,10 +18,9 @@ publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2013-04-07T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Intelligent Multimedia Technologies for Networking Applications - Techniques and Tools.
 tags:
 - Source Themes
 title: Adapting Multimedia Documents with a Semantic Generic Profile
