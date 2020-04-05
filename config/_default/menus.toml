@@ -43,10 +43,10 @@
     name = "Etudes"
     parent = "CV"
     url = "#etudes"
-    weight = 71
+    weight = 72
 
 [[main]]
     name = "CV en PDF"
     parent = "CV"
     url = "files/2020_04_DROMZEE_CV_DEVELOPPEUR_DATA_IA_Python.pdf"
-    weight = 71
+    weight = 73

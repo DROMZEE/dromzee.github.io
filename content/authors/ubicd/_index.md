@@ -8,21 +8,21 @@ bio: Développeur Data IA
 #     Start-up de recherche informatique à Bidart
 #   - 2016 – 2019 Création et management du cabinet dentaire de ma conjointe à Capbreton
 #   - 2005 – 2009 Ingénieur Commercial & management en ESN à Toulouse
-
-education:
-  courses:
-  - course: 19 mois Développeur Data IA
-    institution: SIMPLON MICROSOFT BIARRITZ
-    year: 2020
-  - course: 18 mois de thèse doctorale en science informatique
-    institution: research LIUPPA laboratory
-    year: 2011
-  - course: Mastère Spécialisé en Entrepreneuriat
-    institution: TBS Business School
-    year: 2005
-  - course: MASTER DESS en ingénierie industrielle, simulation numérique
-    institution: IFTS
-    year: 2004
+# 
+# education:
+#   courses:
+#   - course: 19 mois Développeur Data IA
+#     institution: SIMPLON MICROSOFT BIARRITZ
+#     year: 2020
+#   - course: 18 mois de thèse doctorale en science informatique
+#     institution: research LIUPPA laboratory
+#     year: 2011
+#   - course: Mastère Spécialisé en Entrepreneuriat
+#     institution: TBS Business School
+#     year: 2005
+#   - course: MASTER DESS en ingénierie industrielle, simulation numérique
+#     institution: IFTS
+#     year: 2004
 
 
 email: "cedric@dromzee.fr"
