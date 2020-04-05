@@ -39,6 +39,11 @@
     parent = "CV"
     url = "#experience"
     weight = 71
+[[main]]
+    name = "Etudes"
+    parent = "CV"
+    url = "#etudes"
+    weight = 71
 
 [[main]]
     name = "CV en PDF"
