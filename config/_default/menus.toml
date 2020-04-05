@@ -23,11 +23,6 @@
 #  url = "#posts"
 #  weight = 50
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
@@ -35,7 +30,7 @@
     weight = 70
 
 [[main]]
-    name = "Exp pro"
+    name = "Expériences professionnelles"
     parent = "CV"
     url = "#experience"
     weight = 71
@@ -46,7 +41,18 @@
     weight = 72
 
 [[main]]
+    name = "Autres formations"
+    parent = "CV"
+    url = "#accomplishments"
+    weight = 73
+
+[[main]]
     name = "CV en PDF"
     parent = "CV"
     url = "files/2020_04_DROMZEE_CV_DEVELOPPEUR_DATA_IA_Python.pdf"
-    weight = 73
+    weight = 74
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60

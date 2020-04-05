@@ -18,15 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "AEXIUM"
-  company_url = "https://aexium.com/"
+  title = "Dirigeant fondateur d’une StartUp de recherche en science informatique"
+  company = "AEXIUM SAS"
+  company_url = "/cv/xp/2010-entrepreneur-startup-pdg/"
   location = "Bidart, France"
   date_start = "2010-07-21"
   date_end = "2019-09-02"
   description = """
-  Responsibilities include:
-  
+  ✔ Management  d'équipe
+  ✔ Gestion de projet 
+  ✔ Administrateur système 
+  ✔ Recherche
+  ✔ Gestion d'entreprise
   """
 
 [[experience]]
