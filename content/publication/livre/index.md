@@ -6,7 +6,7 @@ date: "2013-04-07T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://coverimages.igi-global.com/cover-images/covers/9781466628335.webp)'
+  caption: 'Image credit: [**IGI**](https://coverimages.igi-global.com/cover-images/covers/9781466628335.webp)'
   focal_point: ""
   preview_only: false
 links:
@@ -19,18 +19,10 @@ publication_short: ""
 publication_types:
 - "3"
 publishDate: "2013-04-07T00:00:00Z"
-slides: example
 summary: Intelligent Multimedia Technologies for Networking Applications - Techniques and Tools.
 tags:
-- Source Themes
+- livre
 title: Adapting Multimedia Documents with a Semantic Generic Profile
-url_code: '#'
-url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
 ---
 

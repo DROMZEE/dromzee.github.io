@@ -24,14 +24,7 @@ summary: International Workshop on Interoperability of User Profiles in Multi-Ap
 tags:
 - Source Themes
 title: Towards an interoperable device profile containing rich user constraints
-url_code: '#'
-url_dataset: '#'
 url_pdf: https://hal.archives-ouvertes.fr/hal-00686176/document
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
 ---
 
 
